@@ -2,11 +2,45 @@
 
 Drop your video into Claude, type `/effects` and the name of an effect. That's the whole edit.
 
-Shared by [Raj](https://github.com/rajshaikh-ai) 🎬 · Original effects made by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
+Made and shared by **Raj** · [Instagram @rajshaikh.ai](https://instagram.com/rajshaikh.ai) · [GitHub](https://github.com/rajshaikh-ai) 🎬
+
+Original effects created by [@vibha.in.progress](https://instagram.com/vibha.in.progress) 💛
 
 > Came here from my reel? Install below, drop your video into Claude and type `/effects`. Have fun!
 
-![All 42 effects](assets/preview.jpg)
+## My reel
+
+Everything below was shot on my phone and edited with this skill. Click the GIF to watch the full reel with sound.
+
+<p align="center">
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" width="270" alt="Raj's /effects reel"></a>
+</p>
+
+More edits like this on my Instagram: **[@rajshaikh.ai](https://instagram.com/rajshaikh.ai)**
+
+## All 42 effects on my footage
+
+Every tile is one effect, rendered on my own clips with no manual editing.
+
+![All 42 effects on Raj's footage](assets/preview.jpg)
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/gifs/glass-widgets.gif" width="200"><br><code>glass-widgets</code></td>
+    <td align="center"><img src="assets/gifs/orbit.gif" width="200"><br><code>orbit</code></td>
+    <td align="center"><img src="assets/gifs/spotlight.gif" width="200"><br><code>spotlight</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/gifs/red-collage.gif" width="200"><br><code>red-collage</code></td>
+    <td align="center"><img src="assets/gifs/checklist.gif" width="200"><br><code>checklist</code></td>
+    <td align="center"><img src="assets/gifs/timeline.gif" width="200"><br><code>timeline</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/gifs/pastel-word.gif" width="200"><br><code>pastel-word</code></td>
+    <td align="center"><img src="assets/gifs/phone-fan.gif" width="200"><br><code>phone-fan</code></td>
+    <td align="center"><img src="assets/gifs/led-sign.gif" width="200"><br><code>led-sign</code></td>
+  </tr>
+</table>
 
 ## Install (one line)
 
@@ -103,10 +137,12 @@ Every effect follows your face. Anything that would cover your face goes behind 
 - These are **starter versions**. They won't match the exact edit in my reel, which also has sound design and hand-tuned timing.
 - It drafts, you approve. Watch the result before you post.
 - No sounds or captions are added. Add those in CapCut.
-- My full edit style is coming later. Follow [@vibha.in.progress](https://instagram.com/vibha.in.progress) to hear first.
+- New edits and behind-the-scenes go up on my Instagram, [@rajshaikh.ai](https://instagram.com/rajshaikh.ai).
 
 ## If something goes wrong
 Just tell Claude what you see ("the word covers my face", "it's too fast"). It will fix the plan and render again.
 
 ## Credits
+Effects: originally created by [@vibha.in.progress](https://instagram.com/vibha.in.progress). Demo footage, reel and previews: Raj ([@rajshaikh.ai](https://instagram.com/rajshaikh.ai)).
+
 Face tracking: [OpenCV YuNet](https://github.com/opencv/opencv_zoo) (MIT). Person cut-out: [MediaPipe Selfie Segmenter](https://ai.google.dev/edge/mediapipe/solutions/vision/image_segmenter) (Apache 2.0). Fonts: Archivo Black, Instrument Serif, Space Mono, Inter, Anton, Montserrat (SIL OFL) and Permanent Marker (Apache 2.0); licences are in `fonts/`. Everything else: MIT, see `LICENSE`.
